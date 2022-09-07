@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<
+<style>
+table,th,td{
+   border:1px solid black;
+}
+</style>
+<body>
+
+<h2>A RESULTS OF THE  STUDENTS IN EXAMINATION</h2>
+<table style="width:80%">
+<tr>
+   <th>s.no</th>
+   <th>NAME OF THE STUDENT</th>
+   <td>HINDI</td>
+   <td>TELUGU</td>
+   <td>ENGLISH</td>
+   <td>MATHS</td>
+   <td>SCIENCE</td>
+   <td>SOCIAL</th>
+   <th>TOTAL</th>
+
+  </tr>
+
+  <tr>
+     <td>1</td>
+     <td>gowthami</td>
+     <td>67</td>
+     <td>81</td>
+     <td>89</td>
+     <td>90</td>
+     <td>78</td>
+     <td>82</td>
+     <td>487</td>
+</tr>
+
+
+</tr>
+  <tr>
+     <td>2</td>
+     <td>harshitha</td>
+     <td>76</td>
+     <td>51</td>
+     <td>69</td>
+     <td>70</td>
+     <td>88</td>
+     <td>52</td>
+     <td>406</td>
+  </tr>
+
+ <tr>
+     <td>3</td>
+     <td>surekha</td>
+     <td>61</td>
+     <td>79</td>
+     <td>68</td>
+     <td>88</td>
+     <td>45</td>
+     <td>76</td>
+     <td>417</td>
+  </tr>
+ 
+<tr>
+     <td>4</td>
+     <td>harish</td>
+     <td>56</td>
